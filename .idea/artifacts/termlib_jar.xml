@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="termlib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/termlib_jar</output-path>
+    <root id="archive" name="termlib.jar">
+      <element id="module-output" name="termlib" />
+    </root>
+  </artifact>
+</component>
